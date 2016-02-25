@@ -1,6 +1,3 @@
-[![Docker Pulls](https://img.shields.io/docker/pulls/hatemzidi/dynlamp-onion.svg)](https://hub.docker.com/r/hatemzidi/dynlamp-onion/)
-[![Docker Stars](https://img.shields.io/docker/stars/hatemzidi/dynlamp-onion.svg)](https://hub.docker.com/r/hatemzidi/dynlamp-onion/)
-[![](https://badge.imagelayers.io/hatemzidi/dynlamp-onion:latest.svg)](https://imagelayers.io/?images=hatemzidi/dynlamp-onion:latest)
 
 DynLAMP Onion (In Progress)
 ============
